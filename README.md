@@ -1,17 +1,17 @@
-# Scratch Jogo Plataforma
+# Scratch Platform Game
 
-## 🎮 Sobre o projeto
-Jogo de plataforma desenvolvido no Scratch.
+## 🎮 About the Project
+A platform game developed using Scratch.
 
-## 🧠 Conceitos utilizados
-- Variáveis
-- Sistema de pontuação
-- Colisão
+## 🧠 Concepts Used
+- Variables
+- Scoring system
+- Collision detection
 - Loops
-- Eventos
+- Events
 
-## 🚀 Como jogar
-Baixe o arquivo .sb3 e abra no Scratch 3.0
+## 🚀 How to Play
+Download the .sb3 file and open it in Scratch 3.0.
 
-## 👨‍💻 Autor
+## 👨‍💻 Author
 Pedro Gaudencio
