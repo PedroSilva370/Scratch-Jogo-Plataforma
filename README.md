@@ -4,7 +4,7 @@
 This is a 2D platform game developed using Scratch. The player controls a character that must avoid obstacles and score points while navigating through an underwater environment.
 
 The project was created to practice fundamental programming concepts and logical thinking.
-<img width="500" height="500" alt="Screenshot 2026-02-13 143000" src="https://github.com/user-attachments/assets/a00ed6f5-a4d3-4958-b0d5-5552164b8d16" />
+<img width="600" height="435" alt="Screenshot 2026-02-13 143000" src="https://s3.ezgif.com/tmp/ezgif-3304ddd48118e7a9.gif" />
 ## Technologies Used
 - Scratch 3.0
 - Block-based programming
